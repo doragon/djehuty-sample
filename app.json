@@ -1,0 +1,12 @@
+{
+  "name": "djehutysample",
+  "description": "djehuty slack bot app sample",
+  "repository": "https://github.com/xica/djehutysample",
+  "keywords": [
+    "slack",
+    "bot"
+  ],
+  "env": {
+      "DJEHUTY_SLACK_OUTGOING_TOKEN": ""
+  }
+}
