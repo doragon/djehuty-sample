@@ -5,4 +5,22 @@ djehutysample
    :target: https://heroku.com/deploy
    :alt: Deploy
 
-djehuty app sample.
+djehuty app sample
+
+Services
+--------
+
+djehutyslack service<https://github.com/xica/djehutyslack> is included.
+
+Commands
+--------
+
+built-in 'yo', 'commands', and 'lgtm'<https://github.com/xica/djehutylgtm> commands are included.
+
+Variables
+---------
+
+These environment variables must be defined.
+
+DJEHUTY_SLACK_OUTGOING_TOKEN
+  set "Outgoing WebHooks" token from Slack integrations configuration.
