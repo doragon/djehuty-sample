@@ -1,5 +1,5 @@
-djehutysample
-=============
+djehuty-sample
+==============
 
 .. image:: https://www.herokucdn.com/deploy/button.png
    :target: https://heroku.com/deploy
@@ -10,12 +10,12 @@ djehuty app sample
 Services
 --------
 
-djehutyslack service<https://github.com/xica/djehutyslack> is included.
+djehutyslack service<https://github.com/xica/djehuty-slack> is included.
 
 Commands
 --------
 
-built-in 'yo', 'commands', and 'lgtm'<https://github.com/xica/djehutylgtm> commands are included.
+built-in 'yo', 'commands', and 'lgtm'<https://github.com/xica/djehuty-lgtm> commands are included.
 
 Variables
 ---------
