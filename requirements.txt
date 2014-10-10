@@ -2,7 +2,8 @@ cliff==1.6.1
 pyramid==1.5.1
 cornice==0.16.2
 uWSGI==2.0.6
-djehuty==0.0.4
-djehutyslack==0.0.4
+djehuty==0.0.7
+djehutyslack==0.1.0
 djehutylgtm==0.0.1
+djehutysuddendeath==0.1.0
 -e .

@@ -9,6 +9,7 @@ with open(os.path.join(here, 'README.rst')) as f:
 
 install_requires = [
     'djehuty>=0.0.4',
+    'djehutyslack>=0.0.4',
     'uWSGI==2.0.6',
 ]
 
