@@ -24,3 +24,9 @@ These environment variables must be defined.
 
 DJEHUTY_SLACK_OUTGOING_TOKEN
   set "Outgoing WebHooks" token from Slack integrations configuration.
+
+Links
+-----
+
+- `Create chat bot of slack with Python`_
+.. _Create chat bot of slack with Python: http://qiita.com/kiri/items/c4b91a7161edf99633ac
