@@ -38,6 +38,7 @@ setup(name='djehutysample',
           ],
 	  'djehuty.commands': [
 	      'mycommand = djehutysample.commands:MyCommand',
+          'mycommand2 = djehutysample.commands:MyCommand2',
           ],
       },
       )
